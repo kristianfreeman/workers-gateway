@@ -1,0 +1,6 @@
+name = "workers-gateway"
+account_id = "dc56444c4c955a1653106ccf997c1067"
+type = "webpack"
+
+# OPTIONAL: Fill out if deploying to your own domain, and release with `wrangler publish --release`
+# route = "mydomain.com/*"
